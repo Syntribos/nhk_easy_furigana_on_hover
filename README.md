@@ -1,0 +1,1 @@
+# nhk_easy_furigana_on_hover
